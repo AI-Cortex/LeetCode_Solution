@@ -65,6 +65,30 @@
     </td>
 </tr>
 
+<!-- 3 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        3
+    </td>
+    <td>
+        Palindrome Number
+    </td>
+    <td>
+        9
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/palindrome-number/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Palindrome%20Number.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>

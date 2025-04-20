@@ -1,4 +1,5 @@
 *.exe
 /.vscode
 temp.txt
+note.txt
 /*/.cph
