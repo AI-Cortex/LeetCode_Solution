@@ -161,6 +161,30 @@
     </td>
 </tr>
 
+<!-- 7 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        7
+    </td>
+    <td>
+        Sqrt(x)
+    </td>
+    <td>
+        69
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/sqrtx" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Sqrt%28x%29.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
