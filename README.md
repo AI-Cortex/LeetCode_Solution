@@ -185,6 +185,30 @@
     </td>
 </tr>
 
+<!-- 8 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        8
+    </td>
+    <td>
+        Roman to Integer
+    </td>
+    <td>
+        13
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/roman-to-integer/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Roman%20to%20Integer.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
