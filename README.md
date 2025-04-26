@@ -209,6 +209,30 @@
     </td>
 </tr>
 
+<!-- 9 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        9
+    </td>
+    <td>
+        Binary Tree Inorder Traversal
+    </td>
+    <td>
+        94
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/binary-tree-inorder-traversal/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Binary%20Tree%20Inorder%20Traversal.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
