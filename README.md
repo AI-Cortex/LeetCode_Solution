@@ -233,6 +233,30 @@
     </td>
 </tr>
 
+<!-- 10 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        10
+    </td>
+    <td>
+        Remove Duplicates from Sorted List
+    </td>
+    <td>
+        83
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-list/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Remove%20Duplicates%20from%20Sorted%20List.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
