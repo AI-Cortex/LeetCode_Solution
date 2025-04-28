@@ -257,6 +257,30 @@
     </td>
 </tr>
 
+<!-- 11 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        11
+    </td>
+    <td>
+        Remove Element
+    </td>
+    <td>
+        27
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/remove-element/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Remove%20Element.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
