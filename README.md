@@ -329,6 +329,30 @@
     </td>
 </tr>
 
+<!-- 14 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        14
+    </td>
+    <td>
+        Valid Parentheses
+    </td>
+    <td>
+        20
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/valid-parentheses" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Valid%20Parentheses.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
