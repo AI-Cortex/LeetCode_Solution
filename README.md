@@ -353,6 +353,30 @@
     </td>
 </tr>
 
+<!-- 15 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        15
+    </td>
+    <td>
+        Find the Index of the First Occurrence in a String
+    </td>
+    <td>
+        28
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
