@@ -401,6 +401,30 @@
     </td>
 </tr>
 
+<!-- 17 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        17
+    </td>
+    <td>
+        Merge Sorted Array
+    </td>
+    <td>
+        88
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Merge%20Sorted%20Array.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
