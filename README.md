@@ -449,6 +449,30 @@
     </td>
 </tr>
 
+<!-- 19 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        19
+    </td>
+    <td>
+        Maximum Depth of Binary Tree
+    </td>
+    <td>
+        104
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Maximum%20Depth%20of%20Binary%20Tree.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
