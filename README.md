@@ -473,6 +473,30 @@
     </td>
 </tr>
 
+<!-- 20 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        20
+    </td>
+    <td>
+        Find the Maximum Achievable Number
+    </td>
+    <td>
+        2769
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/find-the-maximum-achievable-number/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Find%20the%20Maximum%20Achievable%20Number.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
