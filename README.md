@@ -497,6 +497,30 @@
     </td>
 </tr>
 
+<!-- 21 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        21
+    </td>
+    <td>
+        Minimum Depth of Binary Tree
+    </td>
+    <td>
+        111
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/minimum-depth-of-binary-tree/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Minimum%20Depth%20of%20Binary%20Tree.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
