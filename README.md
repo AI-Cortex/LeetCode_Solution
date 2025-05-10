@@ -545,6 +545,30 @@
     </td>
 </tr>
 
+<!-- 23 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        23
+    </td>
+    <td>
+        Path Sum
+    </td>
+    <td>
+        112
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/path-sum/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Path%20Sum.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
