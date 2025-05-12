@@ -569,6 +569,54 @@
     </td>
 </tr>
 
+<!-- 24 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        24
+    </td>
+    <td>
+        Binary Tree Preorder Traversal
+    </td>
+    <td>
+        144
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/binary-tree-preorder-traversal/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Binary%20Tree%20Preorder%20Traversal.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 25 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        25
+    </td>
+    <td>
+        Binary Tree Postorder Traversal
+    </td>
+    <td>
+        145
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/binary-tree-postorder-traversal/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Binary%20Tree%20Postorder%20Traversal.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
