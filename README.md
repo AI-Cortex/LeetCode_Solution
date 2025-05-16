@@ -689,6 +689,30 @@
     </td>
 </tr>
 
+<!-- 29 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        29
+    </td>
+    <td>
+        Pascal's Triangle II
+    </td>
+    <td>
+        119
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/pascals-triangle-ii/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Pascal%27s%20Triangle%20II.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
