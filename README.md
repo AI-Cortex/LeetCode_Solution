@@ -713,6 +713,30 @@
     </td>
 </tr>
 
+<!-- 30 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        30
+    </td>
+    <td>
+        Number of 1 Bits
+    </td>
+    <td>
+        191
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/number-of-1-bits/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Number%20of%201%20Bits.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
