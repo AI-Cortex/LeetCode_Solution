@@ -737,6 +737,54 @@
     </td>
 </tr>
 
+<!-- 31 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        31
+    </td>
+    <td>
+        Contains Duplicate
+    </td>
+    <td>
+        217
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/contains-duplicate/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Contains%20Duplicate.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 32 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        32
+    </td>
+    <td>
+        Best Time to Buy and Sell Stock
+    </td>
+    <td>
+        121
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
