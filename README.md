@@ -785,6 +785,30 @@
     </td>
 </tr>
 
+<!-- 33 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        33
+    </td>
+    <td>
+        Valid Palindrome
+    </td>
+    <td>
+        125
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/valid-palindrome/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Valid%20Palindrome.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
