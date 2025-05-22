@@ -833,6 +833,30 @@
     </td>
 </tr>
 
+<!-- 35 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        35
+    </td>
+    <td>
+        Guess Number Higher or Lower
+    </td>
+    <td>
+        374
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/guess-number-higher-or-lower/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Guess%20Number%20Higher%20or%20Lower.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
