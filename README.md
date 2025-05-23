@@ -857,6 +857,30 @@
     </td>
 </tr>
 
+<!-- 36 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        36
+    </td>
+    <td>
+        Remove Linked List Elements
+    </td>
+    <td>
+        203
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/remove-linked-list-elements/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Remove%20Linked%20List%20Elements.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
