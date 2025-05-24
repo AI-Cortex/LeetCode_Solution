@@ -881,6 +881,30 @@
     </td>
 </tr>
 
+<!-- 37 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        37
+    </td>
+    <td>
+        Happy Number
+    </td>
+    <td>
+        202
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/happy-number/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Happy%20Number.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
