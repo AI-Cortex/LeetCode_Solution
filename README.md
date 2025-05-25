@@ -905,6 +905,30 @@
     </td>
 </tr>
 
+<!-- 38 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        38
+    </td>
+    <td>
+        Summary Ranges
+    </td>
+    <td>
+        228
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/summary-ranges/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Summary%20Ranges.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
