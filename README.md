@@ -953,6 +953,30 @@
     </td>
 </tr>
 
+<!-- 40 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        40
+    </td>
+    <td>
+        Count Complete Tree Nodes
+    </td>
+    <td>
+        222
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/count-complete-tree-nodes/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Count%20Complete%20Tree%20Nodes.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
