@@ -977,6 +977,54 @@
     </td>
 </tr>
 
+<!-- 41 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        41
+    </td>
+    <td>
+        Reverse Linked List
+    </td>
+    <td>
+        206
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/reverse-linked-list/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Reverse%20Linked%20List.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
+<!-- 42 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        42
+    </td>
+    <td>
+        Add Digits
+    </td>
+    <td>
+        258
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/add-digits/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Add%20Digits.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
