@@ -1049,6 +1049,30 @@
     </td>
 </tr>
 
+<!-- 44 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        44
+    </td>
+    <td>
+        Divisible and Non-divisible Sums Difference
+    </td>
+    <td>
+        2894
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Divisible%20and%20Non-divisible%20Sums%20Difference.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
