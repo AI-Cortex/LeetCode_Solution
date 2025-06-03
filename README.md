@@ -1121,6 +1121,30 @@
     </td>
 </tr>
 
+<!-- 47 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        47
+    </td>
+    <td>
+        Word Pattern
+    </td>
+    <td>
+        290
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/word-pattern/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Word%20Pattern.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
