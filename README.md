@@ -1241,6 +1241,30 @@
     </td>
 </tr>
 
+<!-- 52 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        52
+    </td>
+    <td>
+        Move Zeroes
+    </td>
+    <td>
+        283
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/move-zeroes/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Move%20Zeroes.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
