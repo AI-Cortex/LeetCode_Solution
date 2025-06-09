@@ -1265,6 +1265,30 @@
     </td>
 </tr>
 
+<!-- 53 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        53
+    </td>
+    <td>
+        Keyboard Row
+    </td>
+    <td>
+        500
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/keyboard-row/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Keyboard%20Row.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
