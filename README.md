@@ -1289,6 +1289,30 @@
     </td>
 </tr>
 
+<!-- 54 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        54
+    </td>
+    <td>
+        Unique Morse Code Words
+    </td>
+    <td>
+        804
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/unique-morse-code-words/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Unique%20Morse%20Code%20Words.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
