@@ -1313,6 +1313,30 @@
     </td>
 </tr>
 
+<!-- 55 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        55
+    </td>
+    <td>
+        Robot Return to Origin
+    </td>
+    <td>
+        657
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/robot-return-to-origin/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Robot%20Return%20to%20Origin.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
