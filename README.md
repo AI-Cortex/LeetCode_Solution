@@ -1361,6 +1361,30 @@
     </td>
 </tr>
 
+<!-- 57 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        57
+    </td>
+    <td>
+        Add Two Integers
+    </td>
+    <td>
+        2235
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/add-two-integers/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Add%20Two%20Integers.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
