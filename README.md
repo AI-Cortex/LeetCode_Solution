@@ -1433,6 +1433,30 @@
     </td>
 </tr>
 
+<!-- 60 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        60
+    </td>
+    <td>
+        N-Repeated Element in Size 2N Array
+    </td>
+    <td>
+        961
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/n-repeated-element-in-size-2n-array/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/N-Repeated%20Element%20in%20Size%202N%20Array.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
