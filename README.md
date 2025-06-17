@@ -1457,6 +1457,30 @@
     </td>
 </tr>
 
+<!-- 61 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        61
+    </td>
+    <td>
+        To Lower Case
+    </td>
+    <td>
+        709
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/to-lower-case/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/To%20Lower%20Case.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
