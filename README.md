@@ -1481,6 +1481,30 @@
     </td>
 </tr>
 
+<!-- 62 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        62
+    </td>
+    <td>
+        Maximum Depth of N-ary Tree
+    </td>
+    <td>
+        559
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/maximum-depth-of-n-ary-tree/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Maximum%20Depth%20of%20N-ary%20Tree.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
