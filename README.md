@@ -1529,6 +1529,30 @@
     </td>
 </tr>
 
+<!-- 64 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        64
+    </td>
+    <td>
+        Find Closest Person
+    </td>
+    <td>
+        3516
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/find-closest-person/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Find%20Closest%20Person.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
