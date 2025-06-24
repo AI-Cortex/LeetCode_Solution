@@ -1553,6 +1553,30 @@
     </td>
 </tr>
 
+<!-- 65 __________________________________________________________________________________________________ -->
+
+<tr>
+    <td>
+        65
+    </td>
+    <td>
+        Convert a Number to Hexadecimal
+    </td>
+    <td>
+        405
+    </td>
+    <td>
+        <a href="https://leetcode.com/problems/convert-a-number-to-hexadecimal/" target="_blank">
+            problem
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/AI-Cortex/LeetCode_Solution/blob/main/code%20c%2B%2B/Convert%20a%20Number%20to%20Hexadecimal.cpp" target="_blank">
+            solution c++
+        </a>
+    </td>
+</tr>
+
 <!-- . __________________________________________________________________________________________________ -->
 
 <tr>
